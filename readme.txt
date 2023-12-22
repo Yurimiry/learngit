@@ -3,4 +3,4 @@ git good.
 git is a distributed version control system.
 well well.
 ohohohoh.
-Creating  a branch.
+Creating  a branch is quick & simple.
